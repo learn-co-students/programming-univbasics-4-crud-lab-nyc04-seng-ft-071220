@@ -37,3 +37,7 @@ end
 def update_element_from_index(array, index_number, element)
 array[index_number] = element
 end
+
+# number  2 ---> def create_an_array ["One", 2, true, :four] 
+#    created my own test would not pass unless it written out this 
+# als last one had to figure out , study this 
